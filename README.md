@@ -30,7 +30,7 @@ To get started with the NTHM app, ensure you have the following installed:
 ## Setup Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/SamerAKhusein/nthm_app.git
+   git clone https://github.com/Shahad-Alhamam/NTHM_App_group.git
    cd nthm-app
    ```
 
